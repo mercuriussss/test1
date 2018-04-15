@@ -7,3 +7,4 @@ test write
 branch dev write
 wwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwww
 Creating a new branch is quick and simple
+add merge 
