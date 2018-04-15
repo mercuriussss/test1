@@ -6,4 +6,4 @@ _(:з」∠)_yuanlairuci
 test write
 branch dev write
 wwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwww
-Creating a new branch is quick & simple
+Creating a new branch is quick and simple
